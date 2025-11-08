@@ -1,352 +1,702 @@
 [
   {
     "id": 0,
-    "name": "Brainquil",
-    "industry": "Retail",
-    "employees": 1131,
-    "location": "Cloverdale, Brazil"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$68.60",
+    "category": "Books",
+    "stock": 369
   },
   {
     "id": 1,
-    "name": "Zolarex",
-    "industry": "Retail",
-    "employees": 3792,
-    "location": "Chase, Vatican City State (Holy See)"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$259.11",
+    "category": "Electronics",
+    "stock": 99
   },
   {
     "id": 2,
-    "name": "Miracula",
-    "industry": "Tech",
-    "employees": 3636,
-    "location": "Esmont, Liechtenstein"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$431.64",
+    "category": "Books",
+    "stock": 353
   },
   {
     "id": 3,
-    "name": "Farmex",
-    "industry": "Finance",
-    "employees": 1773,
-    "location": "Finzel, Papua New Guinea"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$393.95",
+    "category": "Books",
+    "stock": 15
   },
   {
     "id": 4,
-    "name": "Xplor",
-    "industry": "Retail",
-    "employees": 1995,
-    "location": "Caledonia, Qatar"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$274.81",
+    "category": "Electronics",
+    "stock": 708
   },
   {
     "id": 5,
-    "name": "Anarco",
-    "industry": "Retail",
-    "employees": 1998,
-    "location": "Lisco, Dominican Republic"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$391.35",
+    "category": "Electronics",
+    "stock": 429
   },
   {
     "id": 6,
-    "name": "Organica",
-    "industry": "Tech",
-    "employees": 2601,
-    "location": "Silkworth, United States"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$408.79",
+    "category": "Electronics",
+    "stock": 991
   },
   {
     "id": 7,
-    "name": "Multron",
-    "industry": "Finance",
-    "employees": 4940,
-    "location": "Tilleda, Gabon"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$338.83",
+    "category": "Fashion",
+    "stock": 341
   },
   {
     "id": 8,
-    "name": "Norsul",
-    "industry": "Tech",
-    "employees": 2152,
-    "location": "Cawood, Turks and Caicos Islands"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$124.95",
+    "category": "Books",
+    "stock": 778
   },
   {
     "id": 9,
-    "name": "Translink",
-    "industry": "Tech",
-    "employees": 4063,
-    "location": "Westboro, Botswana"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$328.68",
+    "category": "Books",
+    "stock": 413
   },
   {
     "id": 10,
-    "name": "Codact",
-    "industry": "Finance",
-    "employees": 540,
-    "location": "Alderpoint, Saint Kitts and Nevis"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$406.86",
+    "category": "Books",
+    "stock": 396
   },
   {
     "id": 11,
-    "name": "Imageflow",
-    "industry": "Education",
-    "employees": 1862,
-    "location": "Longoria, Uganda"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$101.33",
+    "category": "Books",
+    "stock": 687
   },
   {
     "id": 12,
-    "name": "Apextri",
-    "industry": "Tech",
-    "employees": 4293,
-    "location": "Eastvale, US Minor Outlying Islands"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$46.12",
+    "category": "Books",
+    "stock": 702
   },
   {
     "id": 13,
-    "name": "Bittor",
-    "industry": "Retail",
-    "employees": 3421,
-    "location": "Brambleton, Suriname"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$247.03",
+    "category": "Books",
+    "stock": 203
   },
   {
     "id": 14,
-    "name": "Bytrex",
-    "industry": "Finance",
-    "employees": 2309,
-    "location": "Springhill, Greece"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$173.98",
+    "category": "Electronics",
+    "stock": 459
   },
   {
     "id": 15,
-    "name": "Qot",
-    "industry": "Education",
-    "employees": 1971,
-    "location": "Maybell, Montserrat"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$119.70",
+    "category": "Books",
+    "stock": 693
   },
   {
     "id": 16,
-    "name": "Exotechno",
-    "industry": "Tech",
-    "employees": 2051,
-    "location": "Broadlands, Philippines"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$237.26",
+    "category": "Home",
+    "stock": 630
   },
   {
     "id": 17,
-    "name": "Aquasure",
-    "industry": "Retail",
-    "employees": 1978,
-    "location": "Caron, Libya"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$236.48",
+    "category": "Fashion",
+    "stock": 620
   },
   {
     "id": 18,
-    "name": "Zidox",
-    "industry": "Tech",
-    "employees": 125,
-    "location": "Ripley, Chile"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$32.24",
+    "category": "Home",
+    "stock": 307
   },
   {
     "id": 19,
-    "name": "Maximind",
-    "industry": "Education",
-    "employees": 1970,
-    "location": "Guthrie, Tanzania"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$434.31",
+    "category": "Home",
+    "stock": 138
   },
   {
     "id": 20,
-    "name": "Medifax",
-    "industry": "Retail",
-    "employees": 4039,
-    "location": "Roy, Maldives"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$254.05",
+    "category": "Fashion",
+    "stock": 710
   },
   {
     "id": 21,
-    "name": "Noralex",
-    "industry": "Retail",
-    "employees": 4787,
-    "location": "Jackpot, Nicaragua"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$149.18",
+    "category": "Electronics",
+    "stock": 731
   },
   {
     "id": 22,
-    "name": "Comtract",
-    "industry": "Tech",
-    "employees": 463,
-    "location": "Slovan, East Timor"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$65.95",
+    "category": "Electronics",
+    "stock": 410
   },
   {
     "id": 23,
-    "name": "Interfind",
-    "industry": "Tech",
-    "employees": 1154,
-    "location": "Downsville, Austria"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$331.14",
+    "category": "Books",
+    "stock": 548
   },
   {
     "id": 24,
-    "name": "Aquafire",
-    "industry": "Finance",
-    "employees": 4794,
-    "location": "Veguita, Argentina"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$252.40",
+    "category": "Books",
+    "stock": 606
   },
   {
     "id": 25,
-    "name": "Buzzmaker",
-    "industry": "Retail",
-    "employees": 4083,
-    "location": "Williston, Laos"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$391.82",
+    "category": "Electronics",
+    "stock": 551
   },
   {
     "id": 26,
-    "name": "Bleendot",
-    "industry": "Retail",
-    "employees": 361,
-    "location": "Imperial, Burkina Faso"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$426.50",
+    "category": "Books",
+    "stock": 363
   },
   {
     "id": 27,
-    "name": "Orbin",
-    "industry": "Tech",
-    "employees": 961,
-    "location": "Dennard, Sao Tome and Principe"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$487.44",
+    "category": "Home",
+    "stock": 459
   },
   {
     "id": 28,
-    "name": "Vinch",
-    "industry": "Tech",
-    "employees": 2022,
-    "location": "Eastmont, Ethiopia"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$136.25",
+    "category": "Fashion",
+    "stock": 673
   },
   {
     "id": 29,
-    "name": "Earbang",
-    "industry": "Finance",
-    "employees": 3373,
-    "location": "Geyserville, Bangladesh"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$318.81",
+    "category": "Fashion",
+    "stock": 395
   },
   {
     "id": 30,
-    "name": "Accel",
-    "industry": "Retail",
-    "employees": 2900,
-    "location": "Blanco, Ireland"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$287.39",
+    "category": "Home",
+    "stock": 49
   },
   {
     "id": 31,
-    "name": "Uncorp",
-    "industry": "Finance",
-    "employees": 828,
-    "location": "Florence, Myanmar"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$431.43",
+    "category": "Fashion",
+    "stock": 263
   },
   {
     "id": 32,
-    "name": "Halap",
-    "industry": "Tech",
-    "employees": 2023,
-    "location": "Sperryville, Christmas Island"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$203.06",
+    "category": "Electronics",
+    "stock": 6
   },
   {
     "id": 33,
-    "name": "Melbacor",
-    "industry": "Education",
-    "employees": 3397,
-    "location": "Enlow, Martinique"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$99.02",
+    "category": "Electronics",
+    "stock": 654
   },
   {
     "id": 34,
-    "name": "Dymi",
-    "industry": "Education",
-    "employees": 3199,
-    "location": "Navarre, Cayman Islands"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$479.58",
+    "category": "Electronics",
+    "stock": 785
   },
   {
     "id": 35,
-    "name": "Plasmox",
-    "industry": "Finance",
-    "employees": 1265,
-    "location": "Healy, Albania"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$156.71",
+    "category": "Fashion",
+    "stock": 242
   },
   {
     "id": 36,
-    "name": "Comvey",
-    "industry": "Retail",
-    "employees": 1266,
-    "location": "Talpa, Oman"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$489.01",
+    "category": "Electronics",
+    "stock": 58
   },
   {
     "id": 37,
-    "name": "Cosmosis",
-    "industry": "Education",
-    "employees": 3717,
-    "location": "Roulette, Congo"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$432.87",
+    "category": "Electronics",
+    "stock": 165
   },
   {
     "id": 38,
-    "name": "Slofast",
-    "industry": "Retail",
-    "employees": 2691,
-    "location": "Noxen, Mali"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$474.26",
+    "category": "Home",
+    "stock": 83
   },
   {
     "id": 39,
-    "name": "Neocent",
-    "industry": "Retail",
-    "employees": 4310,
-    "location": "Tuttle, Vanuatu"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$413.96",
+    "category": "Books",
+    "stock": 127
   },
   {
     "id": 40,
-    "name": "Hivedom",
-    "industry": "Retail",
-    "employees": 944,
-    "location": "Nicholson, Zaire"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$215.00",
+    "category": "Fashion",
+    "stock": 79
   },
   {
     "id": 41,
-    "name": "Eventex",
-    "industry": "Finance",
-    "employees": 4591,
-    "location": "Gerber, Afghanistan"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$41.21",
+    "category": "Electronics",
+    "stock": 216
   },
   {
     "id": 42,
-    "name": "Supportal",
-    "industry": "Education",
-    "employees": 4819,
-    "location": "Klondike, Tokelau"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$163.48",
+    "category": "Electronics",
+    "stock": 407
   },
   {
     "id": 43,
-    "name": "Biflex",
-    "industry": "Education",
-    "employees": 2847,
-    "location": "Dunnavant, Nigeria"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$392.40",
+    "category": "Books",
+    "stock": 920
   },
   {
     "id": 44,
-    "name": "Quility",
-    "industry": "Finance",
-    "employees": 498,
-    "location": "Delwood, Australia"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$7.44",
+    "category": "Fashion",
+    "stock": 965
   },
   {
     "id": 45,
-    "name": "Magnina",
-    "industry": "Retail",
-    "employees": 3183,
-    "location": "Soham, Tajikistan"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$20.08",
+    "category": "Home",
+    "stock": 378
   },
   {
     "id": 46,
-    "name": "Firewax",
-    "industry": "Retail",
-    "employees": 659,
-    "location": "Denio, Poland"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$486.78",
+    "category": "Books",
+    "stock": 0
   },
   {
     "id": 47,
-    "name": "Hopeli",
-    "industry": "Retail",
-    "employees": 194,
-    "location": "Stonybrook, Swaziland"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$324.79",
+    "category": "Fashion",
+    "stock": 249
   },
   {
     "id": 48,
-    "name": "Amtap",
-    "industry": "Education",
-    "employees": 701,
-    "location": "Epworth, Saint Lucia"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$74.98",
+    "category": "Books",
+    "stock": 440
   },
   {
     "id": 49,
-    "name": "Yogasm",
-    "industry": "Tech",
-    "employees": 3577,
-    "location": "Bartonsville, Pakistan"
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$338.35",
+    "category": "Fashion",
+    "stock": 751
+  },
+  {
+    "id": 50,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$127.42",
+    "category": "Books",
+    "stock": 956
+  },
+  {
+    "id": 51,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$56.62",
+    "category": "Fashion",
+    "stock": 173
+  },
+  {
+    "id": 52,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$476.30",
+    "category": "Home",
+    "stock": 956
+  },
+  {
+    "id": 53,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$146.33",
+    "category": "Home",
+    "stock": 73
+  },
+  {
+    "id": 54,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$334.51",
+    "category": "Electronics",
+    "stock": 949
+  },
+  {
+    "id": 55,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$455.44",
+    "category": "Fashion",
+    "stock": 88
+  },
+  {
+    "id": 56,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$51.88",
+    "category": "Electronics",
+    "stock": 392
+  },
+  {
+    "id": 57,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$5.12",
+    "category": "Home",
+    "stock": 633
+  },
+  {
+    "id": 58,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$68.29",
+    "category": "Home",
+    "stock": 757
+  },
+  {
+    "id": 59,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$242.95",
+    "category": "Home",
+    "stock": 225
+  },
+  {
+    "id": 60,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$307.68",
+    "category": "Electronics",
+    "stock": 71
+  },
+  {
+    "id": 61,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$204.51",
+    "category": "Electronics",
+    "stock": 790
+  },
+  {
+    "id": 62,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$17.57",
+    "category": "Electronics",
+    "stock": 527
+  },
+  {
+    "id": 63,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$228.13",
+    "category": "Books",
+    "stock": 589
+  },
+  {
+    "id": 64,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$386.50",
+    "category": "Fashion",
+    "stock": 265
+  },
+  {
+    "id": 65,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$354.52",
+    "category": "Fashion",
+    "stock": 423
+  },
+  {
+    "id": 66,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$175.28",
+    "category": "Electronics",
+    "stock": 172
+  },
+  {
+    "id": 67,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$326.69",
+    "category": "Fashion",
+    "stock": 293
+  },
+  {
+    "id": 68,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$479.38",
+    "category": "Books",
+    "stock": 931
+  },
+  {
+    "id": 69,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$315.44",
+    "category": "Electronics",
+    "stock": 471
+  },
+  {
+    "id": 70,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$82.74",
+    "category": "Fashion",
+    "stock": 841
+  },
+  {
+    "id": 71,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$152.65",
+    "category": "Electronics",
+    "stock": 383
+  },
+  {
+    "id": 72,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$29.60",
+    "category": "Fashion",
+    "stock": 2
+  },
+  {
+    "id": 73,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$422.83",
+    "category": "Fashion",
+    "stock": 265
+  },
+  {
+    "id": 74,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$316.04",
+    "category": "Books",
+    "stock": 655
+  },
+  {
+    "id": 75,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$386.40",
+    "category": "Home",
+    "stock": 681
+  },
+  {
+    "id": 76,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$411.78",
+    "category": "Home",
+    "stock": 476
+  },
+  {
+    "id": 77,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$349.40",
+    "category": "Books",
+    "stock": 763
+  },
+  {
+    "id": 78,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$295.15",
+    "category": "Fashion",
+    "stock": 351
+  },
+  {
+    "id": 79,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$288.82",
+    "category": "Home",
+    "stock": 334
+  },
+  {
+    "id": 80,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$226.66",
+    "category": "Books",
+    "stock": 67
+  },
+  {
+    "id": 81,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$295.44",
+    "category": "Fashion",
+    "stock": 19
+  },
+  {
+    "id": 82,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$391.84",
+    "category": "Home",
+    "stock": 321
+  },
+  {
+    "id": 83,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$113.47",
+    "category": "Home",
+    "stock": 390
+  },
+  {
+    "id": 84,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$354.71",
+    "category": "Fashion",
+    "stock": 986
+  },
+  {
+    "id": 85,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$358.24",
+    "category": "Fashion",
+    "stock": 617
+  },
+  {
+    "id": 86,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$257.67",
+    "category": "Books",
+    "stock": 952
+  },
+  {
+    "id": 87,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$59.41",
+    "category": "Home",
+    "stock": 412
+  },
+  {
+    "id": 88,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$213.90",
+    "category": "Books",
+    "stock": 993
+  },
+  {
+    "id": 89,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$51.44",
+    "category": "Books",
+    "stock": 367
+  },
+  {
+    "id": 90,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$156.23",
+    "category": "Fashion",
+    "stock": 655
+  },
+  {
+    "id": 91,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$206.62",
+    "category": "Electronics",
+    "stock": 853
+  },
+  {
+    "id": 92,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$15.40",
+    "category": "Electronics",
+    "stock": 184
+  },
+  {
+    "id": 93,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$305.40",
+    "category": "Home",
+    "stock": 179
+  },
+  {
+    "id": 94,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$105.28",
+    "category": "Home",
+    "stock": 50
+  },
+  {
+    "id": 95,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$490.71",
+    "category": "Electronics",
+    "stock": 347
+  },
+  {
+    "id": 96,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$204.45",
+    "category": "Books",
+    "stock": 179
+  },
+  {
+    "id": 97,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$20.90",
+    "category": "Fashion",
+    "stock": 445
+  },
+  {
+    "id": 98,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$341.58",
+    "category": "Home",
+    "stock": 665
+  },
+  {
+    "id": 99,
+    "name": "<ReferenceError: productName is not defined>",
+    "price": "$417.67",
+    "category": "Books",
+    "stock": 750
   }
 ]
